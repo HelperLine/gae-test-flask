@@ -1,9 +1,11 @@
 
-# Google App Engine Test - Setup + Secure Environmen Variables
+# GAE Test - Setup + Secure Environment Variables
 
-Basic `app.yaml` for regular flask setup. Setup `standard` for now.
+*GAE = "Google App Engine"*
 
-Environment variables - idea: Setting them with Google Datastore. Since the App Engine app 
+1. Basic `app.yaml` for regular flask setup. Setup `standard` for now.
+
+2. Environment variables - idea: Setting them with Google Datastore. Since the App Engine app 
 is automatically authenticated with the Datastore to its project, it is just a simple query
 
 <br/>
