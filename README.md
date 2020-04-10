@@ -22,26 +22,28 @@ is automatically authenticated with the Datastore to its project, it is just a s
 
 ### Helpful Links
 
-App Engine Python Docs:
+App Engine Python Docs: <br/>
 https://cloud.google.com/appengine/docs/python
 
-`app.yaml` reference for standard environment:
+
+`app.yaml` reference for standard environment: <br/>
 https://cloud.google.com/appengine/docs/standard/python3/config/appref
 
-`app.yaml` reference for flexible environment:
+
+`app.yaml` reference for flexible environment: <br/>
 https://cloud.google.com/appengine/docs/flexible/python/reference/app-yaml
 
 <br/>
 
 Install datastore dependencies with `pip install google.cloud`
 
-Datastore idea source *(libraries deprecated but method still the same)*:
+Datastore idea source *(libraries deprecated but method still the same)*: <br/>
 https://stackoverflow.com/questions/22669528/securely-storing-environment-variables-in-gae-with-app-yaml
 
-Accessing Datastore in Python:
+Accessing Datastore in Python: <br/>
 https://google-cloud-python.readthedocs.io/en/0.32.0/datastore/usage.html
 
 <br/>
 
-Testing the App (`--no-promote`):
+Testing the App (`--no-promote`): <br/>
 https://cloud.google.com/appengine/docs/flexible/nodejs/testing-and-deploying-your-app
