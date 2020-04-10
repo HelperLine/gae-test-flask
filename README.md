@@ -35,7 +35,9 @@ https://cloud.google.com/appengine/docs/flexible/python/reference/app-yaml
 
 <br/>
 
-Install datastore dependencies with `pip install google.cloud`
+Install datastore dependencies with `pip install google-cloud-datastore`.
+Make sure to initialize a service account and download the authentication `json`
+_after_ you have set all permissions for that service account
 
 Datastore idea source *(libraries deprecated but method still the same)*: <br/>
 https://stackoverflow.com/questions/22669528/securely-storing-environment-variables-in-gae-with-app-yaml
