@@ -4,6 +4,7 @@
 *GAE = Google App Engine*
 
 <br/>
+
 ### Basic Deploy flow
 
 1. Type `gloud init` (you don't need to do this when the last deploy was with the same configuration)
